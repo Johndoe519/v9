@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb4aedaf1a9086e6ca5ee935ca5986f0d1ecc4bcf",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xef0b07f09f23002b0fa96802b5b71a08cd16a9b12ea407f2b15c780088d46912",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sandbox Raffle House",
+  "SYMBOL": "SRHNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sandbox-raffle-house-v2",
+  "SHOW_BACKGROUND": true
+}
